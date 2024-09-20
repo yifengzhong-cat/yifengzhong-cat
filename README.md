@@ -63,7 +63,8 @@
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->   
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" style="vertical-align:top; margin:4px">
+<!--   <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" style="vertical-align:top; margin:4px"> -->
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" style="vertical-align:top; margin:4px; width:100px; height:100px;">
   <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
