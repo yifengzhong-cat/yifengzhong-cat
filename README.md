@@ -1,22 +1,17 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://Zhongyifeng.codes">Zhongyifeng</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
-
-
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/yifengzhong "><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/yifeng_zhong"><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+   <a href="https://twitter.com/yifengzhong "><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://dev.to/yifeng_zhong"><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Zhongyifeng | 💻 Algorithm Engineer  | 🛸 China , Shenzhen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>d
-
+</div>
 
 
 
