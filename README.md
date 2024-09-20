@@ -18,7 +18,7 @@
 <p align="center">
    <a href="https://twitter.com/yifengzhong"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_zhong_yifeng?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_zhong_yifeng"></a>
    <br> <!-- <a href="https://badges.pufler.dev/visits/yifengzhong-cat/yifengzhong-cat"> <img alt="yifeng zhong  github" src="https://badges.pufler.dev/visits/yifengzhong-cat/yifengzhong-cat"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat"> <img alt="yifeng zhong github" src="https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat"> <img alt="yifeng zhong github" src="[https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat](https://avatars.githubusercontent.com/u/182189681?v=4)"> </a>
  </p>
 
  <h5 align="center">
