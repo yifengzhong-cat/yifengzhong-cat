@@ -34,7 +34,7 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/coding_ball.gif" />
 
 <p align="center">
-  <h3> I'm 23 years old Algorithm Engineer from China.</h3>
+  <h3> I'm 24 years old Algorithm Engineer from China.</h3>
 </p>
 
  - 🥀 Learning ROS & SLAM
