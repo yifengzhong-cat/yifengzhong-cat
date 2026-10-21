@@ -1,123 +1,120 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://Zhongyifeng.codes">Zhongyifeng</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Zhongyifeng;Algorithm+Engineer;ROS+%26+SLAM+Developer;Cyberpunk+Builder;Dreamer+%26+Maker" alt="Typing SVG" />
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://twitter.com/yifengzhong "><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://dev.to/yifeng_zhong"><img height="30" src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=180&text=Hello%20there!&fontSize=42" alt="banner" />
 </p>
 
+<h1 align="center">⚡ Zhongyifeng ⚡</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/linkedin.png?raw=true" height="30" /></a>
+  <a href="https://twitter.com/yifengzhong"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/twitter.png?raw=true" height="30" /></a>
+  <a href="https://dev.to/yifeng_zhong"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/devto.png?raw=true" height="30" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-China%2C%20Shenzhen-0A0A0A?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Algorithm%20Engineer-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-ROS%20%7C%20SLAM-0A0A0A?style=for-the-badge&logo=ros&logoColor=white" />
+</p>
 
 <div align="center">
-<!-- <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Zhongyifeng | 💻 Algorithm Engineer  | 🛸 China , Shenzhen <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3> -->
-<h3><img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/heartBear.gif" width="30"> 🙎 Zhongyifeng | 💻 Algorithm Engineer  | 🛸 China , Shenzhen <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/heartBear.gif" width="30"></h3>
-
-   
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/heartBear.gif" width="42" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/coding_ball.gif" width="360" alt="anime coding" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/heartBear.gif" width="42" />
 </div>
 
+<hr />
 
-
-<p align="center">
-   <a href="https://twitter.com/yifengzhong"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_zhong_yifeng?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_zhong_yifeng"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/yifengzhong-cat/yifengzhong-cat"> <img alt="yifeng zhong  github" src="https://badges.pufler.dev/visits/yifengzhong-cat/yifengzhong-cat"> </a> -->
-   <a href="https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat"> <img alt="yifeng zhong github" src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240823153449.png"> </a>
- </p>
-
- <h5 align="center">
-   <i>⚡️I want to have a friendly exchange on github⚡️</i>
-  </h5>
- 
-
-<br />
-<!-- <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" /> -->
-<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/coding_ball.gif" />
+<h2 align="center">🌌 Profile</h2>
 
 <p align="center">
-  <h3> I'm 24 years old Algorithm Engineer from China.</h3>
+  <i>"I build robots, algorithms, and systems that feel alive — and I still keep a little bit of chaos in the code."</i>
 </p>
 
- - 🥀 Learning ROS & SLAM
+<ul>
+  <li>💻 Algorithm Engineer with a passion for <b>ROS</b>, <b>SLAM</b>, perception, and intelligent systems</li>
+  <li>🧠 Core stack: <b>C++</b>, <b>Python</b>, <b>MATLAB</b>, <b>OpenCV</b>, <b>PyTorch</b>, <b>TensorFlow</b></li>
+  <li>🚀 Interested in robotics, autonomous systems, embedded hardware integration, drones, unmanned vehicles, and intelligent control</li>
+  <li>🎧 Also a music lover, synthwave / post-punk fan, and someone who enjoys the <b>cyberpunk aesthetic</b></li>
+  <li>🌱 Always learning, always prototyping, always chasing the next cool idea</li>
+</ul>
 
- -  :racehorse:<i>with CPP, Python, Matlab, Pytorch，TensorfFow, OpenCV.</i>
-   
- - 🔭True corn wave fans, to die for post-punk😼
+<hr />
 
- - 🛸I am an electronics enthusiast. I also love music and can play multiple instruments..
-
- - I do algorithms, but I can do a little bit of everything. I can do some embedded hardware algorithm integration, drones and unmanned vehicles, etc., and I am a frequent visitor in the ROS community. :heart:
-
- - All About living life at its best.
-
- - 💬 Connect? lets get social 👉🏼[<img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/social/twitter.svg" >](https://twitter.com/yifengzhong)
-
- <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
-   </p>
-<!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=yifengzhong-cat&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
-<br />
-
-### - Languages and Tools...
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->   
-<!--   <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" style="vertical-align:top; margin:4px"> -->
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" style="vertical-align:top; margin:4px; width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/R_logo.svg" alt="R" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/Ros_logo.svg" alt="ROS" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/matlab-svgrepo-com.svg" alt="MatLab" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/opencv-ar21.svg" alt="OpenCV" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/pytorch-ar21.svg" alt="Pytorch" style="vertical-align:top; margin:4px width:150px; height:50px;">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/tensorflow-ar21.svg" alt="TensorFlow" style="vertical-align:top; margin:4px width:150px; height:50px;">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<!--
-
-### - Blogs 🌱
--->
-<!--
-
 <p align="center">
-  <a href="https://dev.to/yifengzhong">
-    <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/blogs/devto.svg"> 
-  </a>
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" height="45" />
+  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/languages/python.svg" alt="python" height="45" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/R_logo.svg" alt="R" height="45" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/Ros_logo.svg" alt="ROS" height="45" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/matlab-svgrepo-com.svg" alt="MATLAB" height="45" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/opencv-ar21.svg" alt="OpenCV" height="45" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/pytorch-ar21.svg" alt="PyTorch" height="45" />
+  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/tensorflow-ar21.svg" alt="TensorFlow" height="45" />
 </p>
--->
 
+<hr />
 
-
- ### - What i do
-
-
-<br />
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-   <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/giphy.gif" />
-   </p>
-   
-
-<br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yifengzhong-cat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
-<p align="center">Made with ❤️ in China</p>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yifengzhong-cat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<hr />
+
+<h2 align="center">🌃 Current Vibes</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mode-Cyberpunk-9B59B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Style-Neon%20Anime-00D1FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Intelligent%20Robots-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mood-Exploring-FFD93D?style=flat-square" />
+</p>
+
+<ul>
+  <li>🤖 Building intelligent systems that can <b>see</b>, <b>move</b>, and <b>understand</b></li>
+  <li>🕹️ Fan of robot motion, perception, and algorithmic elegance</li>
+  <li>🎵 Loves post-punk, synthwave, and the feeling of a neon-lit midnight city</li>
+  <li>🌌 Keeps a balance between <b>engineering precision</b> and <b>creative exploration</b></li>
+</ul>
+
+<hr />
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://twitter.com/yifengzhong"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_zhong_yifeng?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_zhong_yifeng" /></a>
+  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat" alt="visitors" />
+</p>
+
+<p align="center">
+  <strong>Made with ❤️ and a little bit of cyberpunk energy.</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/Bottom.svg" alt="bottom" />
 </p>
