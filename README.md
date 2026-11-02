@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Zhongyifeng;Algorithm+Engineer;ROS+%26+SLAM+Developer;Cyberpunk+Builder;Dreamer+%26+Maker" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/cyber-cat-banner.jpg" width="100%" alt="cyberpunk city banner" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=180&text=Hello%20there!&fontSize=42" alt="banner" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=720&lines=Zhongyifeng;Algorithm+Engineer;ROS+%26+SLAM+Developer;Cyberpunk+Cat+Builder;Dreamer+%26+Maker" alt="Typing SVG" />
+</div>
 
 <h1 align="center">⚡ Zhongyifeng ⚡</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/linkedin.png?raw=true" height="30" /></a>
-  <a href="https://twitter.com/yifengzhong"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/twitter.png?raw=true" height="30" /></a>
-  <a href="https://dev.to/yifeng_zhong"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/devto.png?raw=true" height="30" /></a>
+  <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/linkedin.png?raw=true" height="30" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yifengzhong"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/twitter.png?raw=true" height="30" alt="Twitter" /></a>
+  <a href="https://dev.to/yifeng_zhong"><img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/devto.png?raw=true" height="30" alt="dev.to" /></a>
 </p>
 
 <p align="center">
@@ -21,9 +21,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/heartBear.gif" width="42" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/coding_ball.gif" width="360" alt="anime coding" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/heartBear.gif" width="42" />
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/cyber-cat-main.jpg" height="380" alt="cyberpunk cat coding" />
 </div>
 
 <hr />
@@ -31,16 +29,29 @@
 <h2 align="center">🌌 Profile</h2>
 
 <p align="center">
-  <i>"I build robots, algorithms, and systems that feel alive — and I still keep a little bit of chaos in the code."</i>
+  <i>"I build robots, algorithms, and systems that feel alive — and my cyber-cat and I still keep a little bit of chaos in the code."</i>
 </p>
 
 <ul>
   <li>💻 Algorithm Engineer with a passion for <b>ROS</b>, <b>SLAM</b>, perception, and intelligent systems</li>
   <li>🧠 Core stack: <b>C++</b>, <b>Python</b>, <b>MATLAB</b>, <b>OpenCV</b>, <b>PyTorch</b>, <b>TensorFlow</b></li>
   <li>🚀 Interested in robotics, autonomous systems, embedded hardware integration, drones, unmanned vehicles, and intelligent control</li>
+  <li>🐱 My coding buddy is a neon-lit cyber-cat who never sleeps (and never stops chasing bugs)</li>
   <li>🎧 Also a music lover, synthwave / post-punk fan, and someone who enjoys the <b>cyberpunk aesthetic</b></li>
   <li>🌱 Always learning, always prototyping, always chasing the next cool idea</li>
 </ul>
+
+<hr />
+
+<h2 align="center">😸 A Day in the Life of My Cyber-Cat</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/cyber-cat-stickers.jpg" width="420" alt="cat sticker sheet" />
+</div>
+
+<p align="center">
+  <sub>Deep focus coding → coffee recharge → existential bug crisis → rocket ship celebration. Repeat. 🚀</sub>
+</p>
 
 <hr />
 
@@ -57,18 +68,13 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/ISO_C%2B%2B_Logo.svg" alt="Cpp" height="45" />
-  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/dev/languages/python.svg" alt="python" height="45" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/R_logo.svg" alt="R" height="45" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/Ros_logo.svg" alt="ROS" height="45" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/matlab-svgrepo-com.svg" alt="MATLAB" height="45" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/opencv-ar21.svg" alt="OpenCV" height="45" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/pytorch-ar21.svg" alt="PyTorch" height="45" />
-  <img src="https://github.com/yifengzhong-cat/ROS_BOOK/blob/main/assert_dir/tensorflow-ar21.svg" alt="TensorFlow" height="45" />
-</p>
-
 <hr />
+
+<h2 align="center">🏆 Trophy Wall</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yifengzhong-cat&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -77,7 +83,15 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yifengzhong-cat&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yifengzhong-cat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yifengzhong-cat&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </p>
 
 <hr />
@@ -86,7 +100,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Mode-Cyberpunk-9B59B6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Style-Neon%20Anime-00D1FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Style-Neon%20Cat-00D1FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Intelligent%20Robots-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/Mood-Exploring-FFD93D?style=flat-square" />
 </p>
@@ -112,9 +126,5 @@
 </p>
 
 <p align="center">
-  <strong>Made with ❤️ and a little bit of cyberpunk energy.</strong>
-</p>
-
-<p align="center">
-  <img src="https://github.com/yifengzhong-cat/yifengzhong-asserts/blob/master/svg/Bottom.svg" alt="bottom" />
+  <strong>Made with ❤️, a cyber-cat, and a little bit of cyberpunk energy.</strong>
 </p>
