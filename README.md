@@ -122,7 +122,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yifengzhong-cat.yifengzhong-cat" alt="visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyifengzhong-cat&label=PROFILE%20VIEWS&countColor=%2322D3EE&labelColor=%230D1117&style=flat-square" alt="visitors" />
 </p>
 
 <p align="center">
