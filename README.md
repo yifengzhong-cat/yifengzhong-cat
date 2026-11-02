@@ -73,25 +73,25 @@
 <h2 align="center">🏆 Trophy Wall</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yifengzhong-cat&theme=onestar&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/achievements-card.png" width="100%" alt="Trophy Wall" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yifengzhong-cat&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/stats-card.png" width="100%" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yifengzhong-cat&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<h2 align="center">📈 Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yifengzhong-cat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/langs-card.png" width="100%" alt="Top Languages" />
 </p>
 
+<h2 align="center">⚡ Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yifengzhong-cat&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/yifengzhong-cat/yifengzhong-asserts/master/activity-card.png" width="100%" alt="Contribution Activity" />
 </p>
 
 <hr />
